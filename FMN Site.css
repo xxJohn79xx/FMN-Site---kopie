@@ -1,0 +1,144 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 100%
+    
+}
+
+#navbar div {
+   display: inline-block;
+   left: 10px;
+   position: relative;
+   width: 10%;
+   padding: 0 auto 0 auto;
+   margin: 0 auto 0 auto;
+}
+
+#navbar {
+    height: 60px;
+    background-color: red;
+    position: fixed;
+    z-index: 9;
+    top: 0px;
+    width: 100%;
+    left: 0px;
+}
+
+h2 {
+    background-color: red;
+    width: 150px
+}
+
+a {
+    color: black;
+    font-weight: 1000;
+    list-style-type: none;
+    text-decoration:none;
+}
+
+.inleiding a {
+    color: red;
+}
+
+header h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+header p {
+    font-size: 18px;
+    text-align: center;    
+}
+
+header {
+    position: relative;
+    top: 90px;
+}
+
+.inleiding {
+    width: 50%;
+    position: relative;
+    top: 130px
+}
+
+header img{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 20px;    
+}
+
+.timechallenge {
+    position: relative;
+    top: 100px;
+    width: 50%;
+}
+
+.timechallenge-img img {
+    position: relative;
+    width: 100%;
+}
+
+#contact {
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 2350px;
+    left: 0px;
+}
+
+.footer {
+    height: 60px;
+    width: 80px;
+    position: relative;
+    left: 10px;
+    display: inline-block;
+    padding: 0 20px 0 20px;
+    margin: 20px 0 20px 0;   
+    text-align: center;
+}
+
+.footer:hover {
+    background-color: #e31e26;
+    height: 60px;
+    width: 80px;
+}
+
+.overzicht-h1 {
+    position: relative;
+    top: 50px;
+}
+
+h3 {
+    position: relative;
+    top: 50px;
+    left: 85px;
+
+}
+
+#div-overzicht {
+    width: 100%;
+    position: relative;
+}
+
+.overzichtam1 img {
+    position: relative;
+    width: 30%;
+    top: 80px;
+}
+
+.overzichtex1 img {
+    position: relative;
+    width: 62%;
+    top: 110px;
+    left: -197px;
+}
+
+.overzichtel1 img {
+    position: relative;
+    width: 41%;
+    top: 200px;
+    left: -65px;
+}
+
